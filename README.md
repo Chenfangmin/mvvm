@@ -1,5 +1,6 @@
 # mvvm
 mvvm的简单介绍
+
 MVVM
 MVVM是Model-View-ViewModel的简写。即模型-视图-视图模型。
 【模型】指的是后端传递的数据；
